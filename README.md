@@ -67,6 +67,4 @@ Once the HomeLab environment is set up, you can use it for various cybersecurity
 
 Contributions to this repository are welcome! If you have suggestions for improving the HomeLab setup instructions or network diagram, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
